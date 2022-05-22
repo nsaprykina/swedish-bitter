@@ -6,12 +6,16 @@
 
 GitHub Page:  https://nsaprykina.github.io/swedish-bitter/ .
 
-Google Диск: https://drive.google.com/file/d/19yjfb-ic2bc496JEuyG-bHV2zREzziTn/view?usp=sharing - desctop 
+Google Диск: https://drive.google.com/file/d/19yjfb-ic2bc496JEuyG-bHV2zREzziTn/view?usp=sharing - desctop
+
 https://drive.google.com/file/d/1zO4SsoJgElEBz-gbnhhR8fibE2PWiAFU/view?usp=sharing - tablet
+
 https://drive.google.com/file/d/1oYafuPwkUPx0CgZKXgHqxMmM8Q6HZh1Z/view?usp=sharing - mobile (расположение макета);
 
 Яндекс диск: https://disk.yandex.ru/i/7ZEBbjMbrAh8Sg - desctop
+
 https://disk.yandex.ru/i/4TgTxxNBEzuILw - tablet
+
 https://disk.yandex.ru/i/xO9oieYz1Y2Zzg - mobile (расположение макета);
 
 Описание: Проект был PSD формата, т.е. для работы с ним использовался Photoshop.
